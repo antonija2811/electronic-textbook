@@ -1,0 +1,33 @@
+#kontejner img{
+
+    position: relative;
+  }
+
+.opcija {
+    display: inline-block;
+    padding-bottom: 20px;
+    width: 33%;
+    text-align: center;
+  }
+
+#kontejner .opcija {
+  height: 100%;}
+
+#kontejner {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  }
+
+.opcija img {
+  width: 100%;
+  height: 100%;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+a.ant-btn {
+  margin-top: 20px;
+}

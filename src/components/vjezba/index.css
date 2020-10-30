@@ -1,0 +1,20 @@
+#sadrzaj .ant-card-body {
+    padding: 0;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+
+#sadrzaj .ant-card-bordered {
+    border: none;
+    margin: 0;
+}
+
+.ant-tabs-content-holder {
+    padding-left: 20px;
+    
+}
+
+.vjezba h2 {
+    text-align: center;
+}
+

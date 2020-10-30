@@ -1,0 +1,61 @@
+.picture-container {
+    width: 20%;
+    float: left;
+    margin: 0;
+    height: auto;
+    padding: 0;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+}
+
+.ostalo {
+    width: 80%;
+    float: left;
+    text-align: left;
+    padding-left: 7vh;
+    padding-top: 20px;
+}
+
+#kontakt {
+    padding-top: 2vh;
+    height: 100%;
+    width: 85vw;
+}
+
+.location img {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.location p {
+    display: inline-block;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.mail img {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+.mail p {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.telephone img {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+}
+
+.telephone p {
+    display: inline-block;
+    padding-left: 10px;
+    
+}
